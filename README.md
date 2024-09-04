@@ -30,7 +30,7 @@ To set up the project locally, you'll need the following:
 - SciPy
 - Streamlit (for deployment)
 
-### Project Files
+### Project Code Files
 
 The order of the files in the project is crucial for understanding the flow and structure of the code. The files should be used in the following sequence:
 
