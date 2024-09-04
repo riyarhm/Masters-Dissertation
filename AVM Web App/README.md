@@ -29,7 +29,7 @@ This is a Streamlit-based web application that provides automated property valua
 ### Download Data 
 
 ## Running the app
-
+Users can run the app in python by using the code and data. The following command is used for running.
 streamlit run AVM_webapp.py
 
 
