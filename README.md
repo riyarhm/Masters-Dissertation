@@ -13,7 +13,7 @@ The project is organized into several key sections:
 - **Modeling:** This section includes the selection, implementation, and evaluation of multiple machine learning models such as Linear Regression, Decision Tree, Random Forest, and Gradient Boosting.
 - **Model Evaluation and Comparison:** The performance of each model is assessed using metrics like RMSE, MAE, and R². The best-performing model is selected based on a comparative analysis.
 - **Benchmarking:** The final model is benchmarked against industry standards like RightMove and Zoopla to evaluate its real-world applicability.
-- **Deployment:** The model is deployed using Streamlit to create an interactive web application for end-users to predict property prices.
+- **App Development:**  The predictions from the model is implemented within a Streamlit-powered web application, allowing end-users to interactively see predicted property prices and other important features.
 
 ## Setup and Prerequisites
 
@@ -38,4 +38,4 @@ The order of the files in the project is crucial for understanding the flow and 
 
 2. **AVM Code Part2**: This file builds upon the prepared predicted data, focusing on merging the predictions with the data needed for display in the web app and benchmarking the selected model against industry standards.
 
-3. **AVM Web App**: This file contains the deployment scripts. The predicted data from the model developed in the previous steps are integrated into a web application using Streamlit, allowing users to interact with the AVM model and predict property prices.
+3. **AVM Web App**: This file contains the App development scripts. The predicted data from the model developed in the previous steps are integrated into a web application using Streamlit, allowing users to interact with the property and their valuation.
